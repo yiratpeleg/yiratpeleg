@@ -4,14 +4,14 @@
 Passionate about technologies and love to learn challenging and new things :books:\
 Currently looking for my first opportunity to study and specialize.**
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey :
 * 🗣 Java | C++ | C 
 * 🛢️ MySQL | SQLite | MongoDB 
 * :octocat: Git | Github 
 * 📟 Linux | Windows
 
-### 📫 Get in touch
+## 📫 Get in touch
 [Linkedin](https://www.linkedin.com/in/yirat-peleg-6076991a0/) 
 
 
