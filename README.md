@@ -1,13 +1,13 @@
 # Hi, I am Yirat Peleg  👋
 
-**I'm currently a third year student in computer science :computer:\
-Passionate about technologies and love to learn challenging and new things :books:\
-Currently looking for my first opportunity to study and specialize.**
+**I'm a software developer with 3+ years experience :computer:\
+BSc in Computer Science and Mathematics -	Magna Cum Laude  :books:\
+**
 
 ## ⚡ Tech Stack
-Here are a few things I've picked up along my learning journey :
-* 🗣 Java | C++ | C 
-* 🛢️ MySQL | SQLite | MongoDB 
+Here are a few things I've picked up along my experience and learning journey :
+* 🗣 Java | C# | ASP.NET Framework & Core | JS | Angular
+* 🛢️ PostgreSQL | SQLite | Elasticsearch | Redis | RabbitMQ | Nats
 * :octocat: Git | Github 
 * 📟 Linux | Windows
 
