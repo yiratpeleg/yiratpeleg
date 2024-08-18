@@ -1,7 +1,7 @@
 # Hi, I am Yirat Peleg  👋
 
 **I'm a software developer with 3+ years experience :computer:\
-BSc in Computer Science and Mathematics -	Magna Cum Laude  :books:\v**
+BSc in Computer Science and Mathematics -	Magna Cum Laude  :books:\.**
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my experience and learning journey :
